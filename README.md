@@ -15,18 +15,18 @@ JAVASCRIPT and REACT JS.
 
 Skills: JAVASCRIPT / REACT / JS / HTML / CSS / bootstrap / Postgres / SQL / REDHAT / CISCO / Networking / Python / Bash / Shell / Mongo /
 
-- 🔭 I’m currently working on this page. 
 
 
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahlamed)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MAHLAMed/github-readme-stats)
 
 
 <!--
+- 🔭 I’m currently working on this page. 
+
 **MAHLAMed/MAHLAMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
