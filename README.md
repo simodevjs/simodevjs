@@ -1,8 +1,8 @@
-### Hi there 👋, MAHLAMed
+### Hi there 👋,I am MAHLAMed
 #### IT developer
 ![IT developer](https://media-exp1.licdn.com/dms/image/D4D16AQFCp2YSqCwioA/profile-displaybackgroundimage-shrink_200_800/0/1661907850781?e=1667433600&v=beta&t=R6zRC1kFaQqVJXnhHhAXMmZ6DMJnvQYBciCwUTcQkxg)
 
-Hi I am Mohamed from Morocco. I am an Electronic and computer engineer of air traffic control systems,a Linux and Network Administrator & Trainer, and finally an IT Developer.
+an Electronic and computer engineer of air traffic control systems,a Linux and Network Administrator & Trainer, and finally an IT Developer.
 
 I love writing codes, Solving practical problems using my IT knowledges:
 
