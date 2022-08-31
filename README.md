@@ -21,7 +21,7 @@ Skills: JAVASCRIPT / REACT / JS / HTML / CSS / bootstrap / Postgres / SQL / REDH
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MAHLAMed/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahlamed)](https://github.com/MAHLAMed/github-readme-stats)
 
 
 <!--
