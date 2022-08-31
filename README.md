@@ -20,9 +20,8 @@ Skills: JAVASCRIPT / REACT / JS / HTML / CSS / bootstrap / Postgres / SQL / REDH
 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahlamed)](https://github.com/MAHLAMed/github-readme-stats)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/medmahla/)  
+📫 How to reach me: mahla.esa@gmail.com
 
 <!--
 - 🔭 I’m currently working on this page. 
