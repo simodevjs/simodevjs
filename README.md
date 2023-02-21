@@ -1,7 +1,7 @@
 ### Hi there 👋,I am SimoDev
 #### web developer
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/medmahla/)  
+<!-- ![IT developer](https://media-exp1.licdn.com/dms/image/D4D16AQFCp2YSqCwioA/profile-displaybackgroundimage-shrink_200_800/0/1661907850781?e=1667433600&v=beta&t=R6zRC1kFaQqVJXnhHhAXMmZ6DMJnvQYBciCwUTcQkxg)-->
 
 an Electronic and computer engineer of air traffic control systems,a Linux and Network Administrator & Trainer, and finally a web Developer.
 
