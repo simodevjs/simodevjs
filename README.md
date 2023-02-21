@@ -11,7 +11,9 @@ Network Administration (Cisco Routing and Switching-CCNP-).
 Full-stack web development is one of my essentials skills.
 Air traffic Control and Simulation systems. (Management and design).
 
-Skills: •- Linux (Redhat-RHCSA) / Bash / Shell
+Skills: 
+
+        •- Linux (Redhat-RHCSA) / Bash / Shell
 
         •- HTML / CSS / bootstrap / JAVASCRIPT / JQUERY / React+Redux / Django
         
