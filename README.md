@@ -24,7 +24,7 @@ Skills:
         
         •- CISCO (CCNP) / Networking /
 [<img src='https://i.ytimg.com/vi/TwYKwaEjJd4/maxresdefault.jpg' alt='Portfolio' height='40'>](https://simodevjs.github.io/Portfolio/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simodevjs/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-dev-r) 
 
 📫 How to reach me: simodevjs@gmail.com
 
